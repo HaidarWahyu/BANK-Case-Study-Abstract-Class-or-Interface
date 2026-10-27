@@ -20,17 +20,6 @@ BankAbstract/
 └── BankDemo.java
 ```
 
-## Class Diagram
-
-![Class diagram](class-diagram.png)
-
-## How to Run
-
-```
-javac *.java
-java BankDemo
-```
-
 ## Output
 
 ```

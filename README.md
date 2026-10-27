@@ -1,8 +1,7 @@
 # Bank - Abstract Class & Interface
 
-**Name:** Haidar
-**NIM:** F1D022410114
-**Task:** PBO 7 & 8 - Abstract Class and Interface
+**Name:** Haidar Wahyu Yasari
+**NIM:** F1D02410114
 
 This is the Bank exercise updated with abstract class, interface, inheritance and polymorphism. `Account` is now abstract, and there are two types of account (Savings and Checking).
 

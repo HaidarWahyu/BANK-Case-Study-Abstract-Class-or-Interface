@@ -1,4 +1,4 @@
-# Bank - Abstract Class & Interface
+# Bank
 
 **Name:** Haidar Wahyu Yasari
 **NIM:** F1D02410114
